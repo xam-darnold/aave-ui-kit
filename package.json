@@ -69,7 +69,7 @@
     "husky": "^4.3.7",
     "lint-staged": "^10.5.3",
     "node-sass": "^5.0.0",
-    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-postcss": "^4.0.1",
     "rollup-plugin-svg": "^2.0.0",
     "size-limit": "^4.9.1",
     "tsdx": "^0.14.1",
